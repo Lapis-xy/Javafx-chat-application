@@ -45,22 +45,6 @@ javac --module-path "PATH_TO_JAVAFX/lib" --add-modules javafx.controls ChatGUIcl
 java --module-path "PATH_TO_JAVAFX/lib" --add-modules javafx.controls ChatGUIclient
 ```
 
-## 📸 Screenshot
-
-### Interfaccia Client
-![Chat GUI](screenshots/chat-gui.png)
-*Interfaccia grafica moderna con tema scuro e bordi arrotondati*
-
-### Server Multi-Client
-![Multiple Clients](screenshots/multiple-clients.png)
-*Server che gestisce connessioni simultanee con broadcast messaggi*
-
-### Design & Styling
-![Dark Theme](screenshots/dark-theme.png)
-*TextField personalizzato con effetti di trasparenza e bordi stilizzati*
-
-> **Nota**: Per catturare gli screenshot, segui le istruzioni in `screenshots/README.md`
-
 ## 🏗️ Architettura
 
 ### Server
