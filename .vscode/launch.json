@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "client",
+            "request": "launch",
+            "mainClass": "client",
+            "projectName": "Chat_dec98500"
+        },
+        {
+            "type": "java",
+            "name": "ChatGUIclient (JavaFX)",
+            "request": "launch",
+            "mainClass": "ChatGUIclient",
+            "projectName": "Chat_dec98500",
+            "vmArgs": "--module-path \"C:\\Program Files\\Java\\javafx-sdk-25.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "server",
+            "request": "launch",
+            "mainClass": "server",
+            "projectName": "Chat_dec98500"
+        }
+    ]
+}

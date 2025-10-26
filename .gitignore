@@ -1,0 +1,37 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+# txt files
+*.txt
+# Build directories
+/bin/
+/target/
+/build/
+/out/
+
+# IDE files
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Package files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Virtual machine crash logs
+hs_err_pid*
+
+# Temporary files
+*.tmp
+*.temp
+
+# Libraries (JavaFX SDK - local installation)
+lib/

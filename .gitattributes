@@ -1,0 +1,9 @@
+# GitHub Language Detection
+*.java linguist-detectable=true
+*.md linguist-documentation
+
+# Line endings
+* text=auto
+*.java text eol=lf
+*.md text eol=lf
+*.json text eol=lf
