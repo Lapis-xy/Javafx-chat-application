@@ -104,10 +104,8 @@ Chat-JavaFX/
 
 ## 👨‍💻 Autore
 
-**Lorenzo** *(sostituisci con i tuoi link reali!)*
-- GitHub: [@lorenzousername](https://github.com/lorenzousername)
-- LinkedIn: [Lorenzo Profile](https://linkedin.com/in/lorenzo-profile)
-- Portfolio: [tuosito.com](https://tuosito.com)
+**Lorenzo**
+- GitHub: [@Lapis-xy](https://github.com/Lapis-xy)
 
 ---
 
