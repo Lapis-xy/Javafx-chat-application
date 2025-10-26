@@ -104,8 +104,8 @@ Chat-JavaFX/
 
 ## 👨‍💻 Autore
 
-**Lorenzo**
 - GitHub: [@Lapis-xy](https://github.com/Lapis-xy)
+- Portfolio: [Lapis-xy.github.io](https://Lapis-xy.github.io)
 
 ---
 
