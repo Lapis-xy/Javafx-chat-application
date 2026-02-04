@@ -4,7 +4,7 @@
  * Gestisce connessione socket, invio/ricezione messaggi su thread separati
  * e pattern Observer (MessageListener) per notifiche alla GUI.
  * 
- * @author [Il Tuo Nome]
+ * @author [Lapis-xy]
  * @version 1.0
  */
 
