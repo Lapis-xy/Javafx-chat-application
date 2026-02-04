@@ -4,7 +4,7 @@
  * Implementa l'UI JavaFX per il client con pattern MVC.
  * Utilizza Platform.runLater() per aggiornamenti thread-safe della GUI.
  * 
- * @author [Il Tuo Nome]
+ * @author [Lapis-xy]
  * @version 1.0
  */
 
