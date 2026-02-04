@@ -4,7 +4,7 @@
  * Implementa server che gestisce connessioni multiple con HashMap per stream I/O.
  * Thread-per-client model per ricezione asincrona, broadcast a tutti i client.
  * 
- * @author [Il Tuo Nome]
+ * @author [Lapis-xy]
  * @version 1.0
  */
 
